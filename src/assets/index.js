@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import laravel from "./tech/laravel.png";
+import phplogo from "./tech/phplogo.png";
+import mysql from "./tech/mysql.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -52,11 +55,14 @@ export {
   tailwind,
   typescript,
   threejs,
+  laravel,
+  phplogo,
+  mysql,
   meta,
   shopify,
   starbucks,
   tesla,
   carrent,
   jobit,
-  tripguide,
+  tripguide
 };

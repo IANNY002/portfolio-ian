@@ -16,6 +16,9 @@ import {
     git,
     figma,
     docker,
+    laravel,
+    phplogo,
+    mysql,
     meta,
     starbucks,
     tesla,
@@ -47,15 +50,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "E-commerce Store Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Wix Website Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Freelancer",
       icon: creator,
     },
   ];
@@ -112,6 +115,18 @@ import {
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "PHP",
+      icon: phplogo,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
+    {
+      name: "Laravel",
+      icon: laravel,
     },
   ];
   

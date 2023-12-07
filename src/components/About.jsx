@@ -46,7 +46,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I&apos;m a skilled web developer specializing in TypeScript and JavaScript, and I have a strong command of frameworks like Laravel, ReactJs, NodeJs, and NextJs. I&apos;m known for my rapid learning abilities and a collaborative approach with clients, focusing on crafting efficient, scalable, and user-friendly solutions that address practical challenges. Let&apos;s join forces to turn your visions into reality!
+        I&apos;m a skilled web developer specializing in TypeScript and JavaScript, and I have a strong command of frameworks like Laravel and NextJs. I&apos;m known for my rapid learning abilities and a collaborative approach with clients, focusing on crafting efficient, scalable, and user-friendly solutions that address practical challenges.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
